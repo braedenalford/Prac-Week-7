@@ -43,6 +43,7 @@ var messageFieldRef = document.getElementById("messageField");
 var redCount = 0;
 var blueCount = 0;
 var message = "";
+var braeden = "awesome";
 
 document.getElementById("restartButton").addEventListener("click", restart); //this method attaches a click event that resets the code after 
                                                                              //messageFinish() has been called
