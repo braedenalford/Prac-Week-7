@@ -45,6 +45,7 @@ var blueCount = 0;
 var message = "";
 var braeden = "awesome";
 var connor = "super";
+var cameron = "not here";
 
 document.getElementById("restartButton").addEventListener("click", restart); //this method attaches a click event that resets the code after 
                                                                              //messageFinish() has been called
